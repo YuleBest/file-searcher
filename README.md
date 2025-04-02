@@ -3,7 +3,9 @@
 只是一个 Go 语言练手项目，会被用在 [Live Photo Tools](https://github.com/YuleBest/LivePhotoTools) 上。
 
 > 使用 Go 编写
+> 
 > 一个可以指定后缀名、日期范围、特别关键词的文件搜索器
+> 
 > 并发处理提升搜索速度
 
 ## 使用方法
